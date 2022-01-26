@@ -1,0 +1,52 @@
+[
+    {
+        "nombre": "Black Manta",
+        "bio": "Es un despiadado mercenario y asesino subacuático que se suele representar como el archienemigo del superhéroe Aquaman. el hombre que se convertiría en Manta Negra diseñó un traje (principalmente un neopreno negro con casco de ojos saltones, que era capaz de disparar rayos de explosión de sus ojos) y formó un sumergible de alta tecnología inspirado en las mantarrayas.",
+        "img": "assets/img/villains/blackmanta1.png",
+        "aparicion": "1967-09-01",
+        "casa": "DC"
+    },
+    {
+        "nombre": "Pingüino",
+        "bio": "Nacido como Oswald Chesterfield Cobblepot, el Pingüino fue acosado de niño por su baja estatura, su peso, y su nariz en forma de pico. En algunos medios, sus dedos están unidos, dando lugar a manos parecidas a aletas. Varias historias cuentan que de niño fue obligado a llevar siempre un paraguas por su madre sobre-protectora, debido a la muerte de su padre por neumonía después de empaparse por la lluvia. ",
+        "img": "assets/img/villains/Pinguino.jpg",
+        "aparicion": "1941-12-01",
+        "casa": "DC"
+    },
+    {
+        "nombre": "Kingpin",
+        "bio": "Kingpin es retratado simplemente como un jefe de la mafia, aunque uno que tiende a ser inusualmente práctico en sus tratos criminales, Uno de los señores del crimen más temidos, peligrosos y poderosos del Universo Marvel, generalmente representado como el señor del crimen de la ciudad de Nueva York.",
+        "img": "assets/img/villains/Kingpin.jpg",
+        "aparicion": "1967-07-01",
+        "casa": "Marvel"
+    },
+    {
+        "nombre": "Líder",
+        "bio": "Samuel Sterns era un trabajor en un centro de investigacion quimica, que sufrio una contaminacion radiactiva, debido a una explosion de rayos Gamma y le afecto el cerebro. Al ocurrir esto, Sterns se dio cuenta que podia desarollar y producir mucha mas informacion que otro ser humano.",
+        "img": "assets/img/villains/lider.jpg",
+        "aparicion": "1964-12-01",
+        "casa": "Marvel"
+    },   
+    {
+        "nombre": "Black Hand",
+        "bio": "Es un supervillano y enemigo de Green Lantern. Utiliza un dispositivo que le permite drenar los poderes de un Green Lantern Ring y usarlos para sí mismo. Habiéndose entrenado extensamente, es un cerebro criminal que lleva un diario extenso de todos sus métodos en su persona para consultarlo instantáneamente en cualquier momento. Le gusta incorporar en su obra temas de viejos clichés.",
+        "img": "assets/img/villains/blackhand.jpg",
+        "aparicion": "1964-06-01",
+        "casa": "DC"
+    },
+    {
+        "nombre": "Doctor Octopus",
+        "bio": "Tras un accidente en el laboratorio, varios líquidos radiactivos orgánicos explotaron y fusionaron su arnes al cuerpo de Octavius, quien adquirió el poder de moverlos a voluntad, usando sólo el pensamiento. El accidente también provocó daños cerebrales, lo cual se ha interpretado como una causa de que el cerebro tuviese que dirigir cuatro nuevas extremidades. Con esa mentalidad desquiciada, Octavius comenzó a dedicarse al crimen, bajo el nombre de Doctor Octopus, en referencia a sus ocho extremidades, como los pulpos.",
+        "img": "assets/img/villains/octopus.jpg",
+        "aparicion": "1963-07-01",
+        "casa": "Marvel"
+    },
+    {
+        "nombre": "Sabretooth",
+        "bio": "El verdadero origen de Sabretooth es desconocido. Sin embargo se sabe que su verdadero nombre es Víctor Creed, un mutante. Sabretooth es la personificación del guerrero definitivo y superviviente, habiendo sido arrastrado durante años por sus psicóticas adicciones a cazar, luchar y asesinar seres humanos.  \"normal\".",
+        "img": "assets/img/villains/dientes.jpg",
+        "aparicion": "1977-08-01",
+        "casa": "Marvel"
+       
+    }
+]
